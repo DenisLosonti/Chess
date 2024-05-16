@@ -12,6 +12,7 @@ body {
 
 h1 {
   margin: 10px;
+  color: white;
 }
 
 ul {
@@ -38,6 +39,7 @@ li {
 
 #tog {
   margin: 10px 0px;
+  color: white;
 }
 
 
